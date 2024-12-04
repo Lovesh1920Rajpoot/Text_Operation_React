@@ -19,7 +19,7 @@ function App() {
     <>
     <Navbar title= "TextForm" Features="Profile" love="Messages" Recents="Search" mode = {mode} toggleMode={toggleMode}/>
     <div className="container my-3">
-    <Textform heading="enter the text to analyze"/>   
+    <Textform heading="enter the text to Analyse"/>   
     </div>
     </>
    ); 
